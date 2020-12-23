@@ -1,0 +1,17 @@
+{
+    "name": "Ruleable",
+    "alias": "ruleable",
+    "description": "",
+    "keywords": [],
+    "version": "1.0.0",
+	"active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Ruleable\\Providers\\RuleableServiceProvider",
+        "Modules\\Ruleable\\Providers\\EventServiceProvider",
+        "Modules\\Ruleable\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
